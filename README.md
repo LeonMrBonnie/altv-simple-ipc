@@ -1,8 +1,12 @@
 # altv-simple-ipc
 A simple ipc implementation for the alt:V multiplayer modification
 
+---
+
 # Installation
 Copy the client/ipc.mjs to the client folder in your resource and copy the server/ipc.mjs to the server folder in your resource.
+
+---
 
 # Usage
 <b>ipc.send</b>
