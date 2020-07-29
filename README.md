@@ -1,6 +1,8 @@
 # altv-simple-ipc
 A simple ipc implementation for the alt:V multiplayer modification
 
+[![Generic badge](https://img.shields.io/badge/.altv_Installer%3F-Yes!-4E753E.svg)](https://shields.io/)
+
 ---
 
 # Installation
